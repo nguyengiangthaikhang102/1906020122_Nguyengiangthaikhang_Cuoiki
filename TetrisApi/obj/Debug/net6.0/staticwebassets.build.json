@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fSBRC+FybRCQxHZA9lXbHzAOqr7NSwwvUAZ0zZz0h+g=",
+  "Source": "TetrisApi",
+  "BasePath": "_content/TetrisApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

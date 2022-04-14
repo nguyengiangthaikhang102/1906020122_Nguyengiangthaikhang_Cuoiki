@@ -1,0 +1,86 @@
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+E:\Lập trình C#\Tetris-Game-main\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\App.g.cs
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+E:\Lập trình C#\Tetris-Game-main\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\XamlAnimatedGif.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CopyComplete
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_Content.g.cs
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\EntityFramework.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\User.g.cs
+E:\Lập trình C#\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\User.baml
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\bin\Debug\net5.0-windows\XamlAnimatedGif.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\User.g.cs
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\User.baml
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CopyComplete
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\Kendra\Documents\Tetris-Brick-game\Tetris-Brick-game\Tetris\obj\Debug\net5.0-windows\Tetris_Content.g.cs
